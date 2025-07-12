@@ -6,6 +6,7 @@ This repository contains my attempt to solve the coding assignment from the Econ
 ### Raw data:
 The raw data has been sourced from the link given above. 
 hospital.csv is a dataset of hospitals in each city and respective number of asthma cases.
+
 city.csv is a dataset containing population estimates, production quantity of pokeballs and pokeball factories from 2000 to 2015.
 
 ## Code
